@@ -1,6 +1,6 @@
 # KJPS 2018
 
-Uzdevums ir izdomāt nelielu biznesa ideju un izveidot lietotni šai idejai.
+Uzdevums ir izdomāt nelielu biznesa ideju un izveidot lietotni šai idejai. Lietotnei ir ieteicams būt funkcionālai rezultātā. Bet, ja lietotne ir izvēlēta par lielu, ir jākoncentrējās uz tās galveno fukncionalitāti.
 
 # Piemēri
 
