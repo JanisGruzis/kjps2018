@@ -25,3 +25,13 @@ Biznesa ideju piemēri:
   * Sociālais saits.
   * TODO (darāmo uzdevumu) saraksts.
   * Forums.
+
+# Materiāli
+
+*Html* - https://www.w3schools.com/html/default.asp
+*CSS* - https://www.w3schools.com/css/default.asp
+*JavaScript* - https://www.w3schools.com/js/default.asp
+*PHP* - https://www.w3schools.com/php/
+*Bootstrap* - https://www.w3schools.com/bootstrap/default.asp
+*JQuery* - https://www.w3schools.com/jquery/default.asp
+*SQL* - https://www.w3schools.com/sql/default.asp
