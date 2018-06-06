@@ -28,6 +28,7 @@ Biznesa ideju piemēri:
 
 # Materiāli
 
+* Example of simple php homepage code - look in directory "example/website/".
 * **Html** - https://www.w3schools.com/html/default.asp
 * **CSS** - https://www.w3schools.com/css/default.asp
 * **JavaScript** - https://www.w3schools.com/js/default.asp
